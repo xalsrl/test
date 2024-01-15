@@ -1,4 +1,4 @@
-# chaper_one.txt
+# chapter_one.txt
 
 Title : Introduction
 
@@ -6,4 +6,4 @@ Title : Introduction
 
 "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
 
-"ending is not yet" # 추가
+And thenm he lives alive his life. # 추가
